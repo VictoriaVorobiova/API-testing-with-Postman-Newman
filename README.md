@@ -1,5 +1,5 @@
-# Training-project-API-testing-with-Postman-Newman
-During the training project, the following were studied:
+# Practice-project-API-testing-with-Postman-Newman
+During the prectice project, the following were studied:
 - creating queries in Postman;
 - creating collections of queries in Postman;
 - working with environment variables;
