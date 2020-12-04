@@ -1,4 +1,4 @@
-# API-testing-with-Postman-Newman-Practice
+# API-testing-with-Postman-Newman
 During the prectice project, the following were studied:
 - creating queries in Postman;
 - creating collections of queries in Postman;
