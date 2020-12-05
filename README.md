@@ -1,5 +1,5 @@
 # API-testing-with-Postman-Newman
-During the prectice project, the following were studied:
+The prectice project includes:
 - creating queries in Postman;
 - creating collections of queries in Postman;
 - working with environment variables;
